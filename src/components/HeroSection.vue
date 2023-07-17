@@ -1,7 +1,7 @@
 <script setup>
   const title = 'Promote Your Bussiness With <span>Apco</span>'
   const subTitle = 'We are team of talented designers making websites with Bootstrap'
-  const heroImage = './src/assets/img/hero-img.png'
+  const heroImage = '../img/hero-img.png'
 </script>
 
 <template>

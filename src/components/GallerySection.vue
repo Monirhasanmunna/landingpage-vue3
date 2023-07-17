@@ -2,14 +2,14 @@
   const title = 'Gallery'
   const subTitle = 'Check our Gallery'
 
-  const image1 = './src/assets/img/gallery/gallery-1.jpg'
-  const image2 = './src/assets/img/gallery/gallery-2.jpg'
-  const image3 = './src/assets/img/gallery/gallery-3.jpg'
-  const image4 = './src/assets/img/gallery/gallery-4.jpg'
-  const image5 = './src/assets/img/gallery/gallery-5.jpg'
-  const image6 = './src/assets/img/gallery/gallery-6.jpg'
-  const image7 = './src/assets/img/gallery/gallery-7.jpg'
-  const image8 = './src/assets/img/gallery/gallery-8.jpg'
+  const image1 = '../img/gallery/gallery-1.jpg'
+  const image2 = '../img/gallery/gallery-2.jpg'
+  const image3 = '../img/gallery/gallery-3.jpg'
+  const image4 = '../img/gallery/gallery-4.jpg'
+  const image5 = '../img/gallery/gallery-5.jpg'
+  const image6 = '../img/gallery/gallery-6.jpg'
+  const image7 = '../img/gallery/gallery-7.jpg'
+  const image8 = '../img/gallery/gallery-8.jpg'
 </script>
 
 <template>
