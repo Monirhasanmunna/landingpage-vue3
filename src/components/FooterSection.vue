@@ -1,8 +1,8 @@
 <script setup>
   const logoTitle = 'Apco'
   const  description = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy'
-  const addressHtml = 'A108 Adam Street <br>NY 535022, USA<br><br><strong>Phone:</strong> +1 5589 55488 55<br><strong>Email:</strong> info@example.com<br>'
-  const copyRightHtml = '&copy; Copyright <strong><span>Bootslander</span></strong>. All Rights Reserved'
+  const addressHtml = 'A108 Adam Street <br>NY 535022, USA<br><br><strong>Phone:</strong>+880 1771 501 865<br><strong>Email:</strong>monirhasanmunna1@gmail.com<br>'
+  const copyRightHtml = '&copy; Copyright <strong><span>Munna</span></strong>. All Rights Reserved'
   const rightsHtml = 'Designed by <a href="">Munna</a>'
 </script>
 
