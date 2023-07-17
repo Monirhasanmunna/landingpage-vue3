@@ -1,5 +1,5 @@
 <script setup>
-  const title = 'Promote Your Bussiness With <span>Appco</span>'
+  const title = 'Promote Your Bussiness With <span>Apco</span>'
   const subTitle = 'We are team of talented designers making websites with Bootstrap'
   const heroImage = './src/assets/img/hero-img.png'
 </script>
